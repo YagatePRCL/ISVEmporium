@@ -13,4 +13,5 @@ Near Future Construciton (Adds Long Truss Support)
 
 INSTALLATION:
 
-Drag and drop appropriate files (Part files) into ISVEmporium
+Drag and drop ISVEmporium into KSP Gamedata
+For modularity, delete the labeled folders if you do not want certain parts.
