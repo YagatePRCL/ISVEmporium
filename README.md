@@ -20,8 +20,7 @@ Disclaimer: ISV Emporium is not associated with Patch Emporium, however if using
 
 ### INSTALLATION:
 
-Drag and drop ISVEmporium into KSP Gamedata
-For modularity, delete the labeled folders inside PlusPartPatches if you do not want certain parts.
+Drag and drop the folder inside the extracted ISVEmporium called ISVEmporium inside Gamedata, into your actual KSP Gamedata
 
 ## ❌ **KNOWN ISSUES** 
 - Tweakscale may limit the parts rescale sizes depending on which version of tweakscale you have. (This is due to old mods like KSPIE, It's recommended you uninstall them if using tweakscale on these parts)
